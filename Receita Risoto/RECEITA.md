@@ -1,6 +1,6 @@
-#Rosoto de Parmesão
+# Rosoto de Parmesão
 
-###Ingredientes:
+### Ingredientes:
 * 1 xícara de arroz arbóreo
 * ¾ de xícara de vinho branco
 * 2 colheres (sopa) de azeite de oliva
@@ -9,7 +9,7 @@
 * 100 g de queijo parmesão de boa qualidade
 * 2 colheres (sopa) de manteiga
 
-###Modo de fazer:
+### Modo de fazer:
 1. Aqueça uma panela de fundo grosso, coloque o azeite e a cebola e refogue até ficar transparente.
 2. Coloque o arroz, refogue e acrescente o vinho. Mexa até o vinho evaporar e comece a acrescentar o caldo, uma ou duas conchas por vez, sempre esperando começar a secar para adicionar novamente.
 3. É importante mexer sempre para que o arroz libere o amido.
